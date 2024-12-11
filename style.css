@@ -1,0 +1,22 @@
+header {
+    text-align: center;
+}
+html {
+    background-color: #00cc00;
+    scroll-behavior: smooth;
+}
+#lista {
+    border: black solid 10px;
+    background-color: rgb(140, 233, 112);
+    border-radius: 50px;
+    padding: 50px;
+    font-size: xx-large;
+    font-family: fantasy;
+    background-size: cover;
+}
+#eko {
+    font-size: 80px;
+    align-items: start;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
